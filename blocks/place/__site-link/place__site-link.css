@@ -1,0 +1,9 @@
+.place__site-link {
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: none;
+    border-bottom: 1px solid #FFF;
+    color: #FFF;
+    margin: 0;
+    padding: 0;
+}
