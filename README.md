@@ -23,4 +23,17 @@
 * [Ссылка на проект](https://aberdinn.github.io/russian-travel/)
 
 
-Удачи!
+
+**Cтек технологий**
+
+- HTML 5
+- CSS 3
+
+**Применение**
+
+- Flexbox;
+- Grid Layout
+- Media queries
+- Nested БЭМ
+- Семантическая разметка
+- Позиционирование
