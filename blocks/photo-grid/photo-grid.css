@@ -20,7 +20,6 @@
         grid-template-columns: repeat(2, 352px);
         margin: 0 auto 88px auto;
         width: calc(100% - 48px);
-        gap: 16px;
     }
 }
 @media screen and (max-width: 767px) {
