@@ -10,7 +10,7 @@
     src: local("Inter-Bold"),
         url(../fonts/inter/Inter-Bold.woff2) format("woff2"),
         url(../fonts/inter/Inter-Bold.woff) format("woff");
-        font-weight: 700;
+        font-weight: bold;
 }
 @font-face {
     font-family: 'Inter';
